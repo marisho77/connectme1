@@ -1,1 +1,2 @@
-# connectme1
+# Proyecto ConnectMe
+Proyecto desarrollado por Indexar para Innovaone.
